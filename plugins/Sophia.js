@@ -28,7 +28,7 @@ if (Config.WORKTYPE == 'private') {
 
     Asena.addCommand({pattern: 'tdrs', fromMe: true, desc: Lang.TDRS_DESC}, (async (message, match) => {  
 
-        await message.sendMessage('*Sophia bot*\n*qura 30 JUZ*\nKLIK LINK AUTO PLAY DAFTAR JUZ :/\n\n\nℹ *Juz 1*\n🎬 PLAY http://j.mp/2b8SiNO\n\nℹ *Juz 2*\n🎬 PLAY http://j.mp/2b8RJmQ\n\nℹ *Juz 3*\n🎬 PLAY http://j.mp/2bFSrtF\n\nℹ *Juz 4*\n🎬 PLAY http://j.mp/2b8SXi3\n\nℹ *Juz 5*\n🎬 PLAY http://j.mp/2b8RZm3\n\nℹ *Juz 6*\n🎬 PLAY http://j.mp/28MBohs\n\nℹ *Juz 7*\n🎬 PLAY http://j.mp/2bFRIZC\n\nℹ *Juz 8*\n🎬 PLAY http://j.mp/2bufF7o\n\nℹ *Juz 9*\n🎬 PLAY http://j.mp/2byr1bu\n\nℹ *Juz 10*\n🎬 PLAY http://j.mp/2bHfyUH\n\nℹ *Juz 11*\n🎬 PLAY http://j.mp/2bHf80y\n\nℹ *Juz 12*\n🎬 PLAY http://j.mp/2bWnTby\n\nℹ *Juz 13*\n🎬 PLAY http://j.mp/2bFTiKQ\n\nℹ *Juz 14*\n🎬 PLAY http://j.mp/2b8SUTA\n\nℹ *Juz 15*\n🎬 PLAY http://j.mp/2bFRQIM\n\nℹ *Juz 16*\n🎬 PLAY http://j.mp/2b8SegG\n\nℹ *Juz 17*\n🎬 PLAY http://j.mp/2brHsFz\n\nℹ *Juz 18*\n🎬 PLAY http://j.mp/2b8SCfc\n\nℹ *Juz 19*\n🎬 PLAY http://j.mp/2bFSq95\n\nℹ *Juz 20*\n🎬 PLAY http://j.mp/2brI1zc\n\nℹ *Juz 21*\n🎬 PLAY http://j.mp/2b8VcBO\n\nℹ *Juz 22*\n🎬 PLAY http://j.mp/2bFRxNP\n\nℹ *Juz 23*\n🎬 PLAY http://j.mp/2brItxm\n\nℹ *Juz 24*\n🎬 PLAY http://j.mp/2brHKw5\n\nℹ *Juz 25*\n🎬 PLAY http://j.mp/2brImlf\n\nℹ *Juz 26*\n🎬 PLAY http://j.mp/2bFRHF2\n\nℹ *Juz 27*\n🎬 PLAY http://j.mp/2bFRXno\n\nℹ *Juz 28*\n🎬 PLAY http://j.mp/2brI3ai\n\nℹ * Juz 29*\n🎬 PLAY http://j.mp/2bFRyBF\n\nℹ *Juz 30*\n🎬 PLAYhttp://j.mp/2bFREcc');
+        await message.sendMessage('*THOMA bot*\n*qura 30 JUZ*\nKLIK LINK AUTO PLAY DAFTAR JUZ :/\n\n\nℹ *Juz 1*\n🎬 PLAY http://j.mp/2b8SiNO\n\nℹ *Juz 2*\n🎬 PLAY http://j.mp/2b8RJmQ\n\nℹ *Juz 3*\n🎬 PLAY http://j.mp/2bFSrtF\n\nℹ *Juz 4*\n🎬 PLAY http://j.mp/2b8SXi3\n\nℹ *Juz 5*\n🎬 PLAY http://j.mp/2b8RZm3\n\nℹ *Juz 6*\n🎬 PLAY http://j.mp/28MBohs\n\nℹ *Juz 7*\n🎬 PLAY http://j.mp/2bFRIZC\n\nℹ *Juz 8*\n🎬 PLAY http://j.mp/2bufF7o\n\nℹ *Juz 9*\n🎬 PLAY http://j.mp/2byr1bu\n\nℹ *Juz 10*\n🎬 PLAY http://j.mp/2bHfyUH\n\nℹ *Juz 11*\n🎬 PLAY http://j.mp/2bHf80y\n\nℹ *Juz 12*\n🎬 PLAY http://j.mp/2bWnTby\n\nℹ *Juz 13*\n🎬 PLAY http://j.mp/2bFTiKQ\n\nℹ *Juz 14*\n🎬 PLAY http://j.mp/2b8SUTA\n\nℹ *Juz 15*\n🎬 PLAY http://j.mp/2bFRQIM\n\nℹ *Juz 16*\n🎬 PLAY http://j.mp/2b8SegG\n\nℹ *Juz 17*\n🎬 PLAY http://j.mp/2brHsFz\n\nℹ *Juz 18*\n🎬 PLAY http://j.mp/2b8SCfc\n\nℹ *Juz 19*\n🎬 PLAY http://j.mp/2bFSq95\n\nℹ *Juz 20*\n🎬 PLAY http://j.mp/2brI1zc\n\nℹ *Juz 21*\n🎬 PLAY http://j.mp/2b8VcBO\n\nℹ *Juz 22*\n🎬 PLAY http://j.mp/2bFRxNP\n\nℹ *Juz 23*\n🎬 PLAY http://j.mp/2brItxm\n\nℹ *Juz 24*\n🎬 PLAY http://j.mp/2brHKw5\n\nℹ *Juz 25*\n🎬 PLAY http://j.mp/2brImlf\n\nℹ *Juz 26*\n🎬 PLAY http://j.mp/2bFRHF2\n\nℹ *Juz 27*\n🎬 PLAY http://j.mp/2bFRXno\n\nℹ *Juz 28*\n🎬 PLAY http://j.mp/2brI3ai\n\nℹ * Juz 29*\n🎬 PLAY http://j.mp/2bFRyBF\n\nℹ *Juz 30*\n🎬 PLAYhttp://j.mp/2bFREcc');
 
     }));
 
@@ -62,7 +62,7 @@ if (Config.WORKTYPE == 'private') {
 
             .on('end', async () => {
 
-                await message.sendMessage(fs.readFileSync('output.mp4'), MessageType.video, {caption: 'Made by WhatsAsena'});
+                await message.sendMessage(fs.readFileSync('output.mp4'), MessageType.video, {caption: 'Made by MR FRAUD LFA'});
 
             });
 
@@ -100,7 +100,7 @@ if (Config.WORKTYPE == 'private') {
 
             .on('end', async () => {
 
-                await message.sendMessage(fs.readFileSync('output.mp4'), MessageType.video, {caption: 'Made by WhatsAsena'});
+                await message.sendMessage(fs.readFileSync('output.mp4'), MessageType.video, {caption: 'Made by MR FRAUD LFA'});
 
             });
 
@@ -142,7 +142,7 @@ if (Config.WORKTYPE == 'private') {
 
             .on('end', async () => {
 
-                await message.sendMessage(fs.readFileSync('output.mp4'), MessageType.video, {mimetype: Mimetype.mpeg, caption: 'Made by WhatsAsena'});
+                await message.sendMessage(fs.readFileSync('output.mp4'), MessageType.video, {mimetype: Mimetype.mpeg, caption: 'Made by MR FRAUD LFA'});
 
             });
 
@@ -178,7 +178,7 @@ if (Config.WORKTYPE == 'private') {
 
             .on('end', async () => {
 
-                await message.sendMessage(fs.readFileSync('output.mp4'), MessageType.video, {mimetype: Mimetype.mpeg, caption: 'Made by WhatsAsena'});
+                await message.sendMessage(fs.readFileSync('output.mp4'), MessageType.video, {mimetype: Mimetype.mpeg, caption: 'Made by MR FRAUD LFA'});
 
             });
 
@@ -214,7 +214,7 @@ if (Config.WORKTYPE == 'private') {
 
             .on('end', async () => {
 
-                await message.sendMessage(fs.readFileSync('output.mp4'), MessageType.video, {mimetype: Mimetype.mpeg, caption: 'Made by WhatsAsena'});
+                await message.sendMessage(fs.readFileSync('output.mp4'), MessageType.video, {mimetype: Mimetype.mpeg, caption: 'Made by MR FRAUD LFA'});
 
             });
 
@@ -250,7 +250,7 @@ if (Config.WORKTYPE == 'private') {
 
             .on('end', async () => {
 
-                await message.sendMessage(fs.readFileSync('output.mp4'), MessageType.video, {mimetype: Mimetype.mpeg, caption: 'Made by WhatsAsena'});
+                await message.sendMessage(fs.readFileSync('output.mp4'), MessageType.video, {mimetype: Mimetype.mpeg, caption: 'Made by MR FRAUD LFA'});
 
             });
 
@@ -288,7 +288,7 @@ if (Config.WORKTYPE == 'private') {
 
             .on('end', async () => {
 
-                await message.sendMessage(fs.readFileSync('output.mp4'), MessageType.video, {mimetype: Mimetype.mpeg, caption: 'Made by WhatsAsena'});
+                await message.sendMessage(fs.readFileSync('output.mp4'), MessageType.video, {mimetype: Mimetype.mpeg, caption: 'Made by MR FRAUD LFA'});
 
             });
 
@@ -324,7 +324,7 @@ if (Config.WORKTYPE == 'private') {
 
             .on('end', async () => {
 
-                await message.sendMessage(fs.readFileSync('output.mp4'), MessageType.video, {mimetype: Mimetype.mpeg, caption: 'Made by WhatsAsena'});
+                await message.sendMessage(fs.readFileSync('output.mp4'), MessageType.video, {mimetype: Mimetype.mpeg, caption: 'Made by MR FRAUD LFA'});
 
             });
 
@@ -362,7 +362,7 @@ if (Config.WORKTYPE == 'private') {
 
             .on('end', async () => {
 
-                await message.sendMessage(fs.readFileSync('output.mp4'), MessageType.video, {mimetype: Mimetype.mpeg, caption: 'Made by WhatsAsena'});
+                await message.sendMessage(fs.readFileSync('output.mp4'), MessageType.video, {mimetype: Mimetype.mpeg, caption: 'Made by MR FRAUD LFA'});
 
             });
 
@@ -510,7 +510,7 @@ if (Config.WORKTYPE == 'private') {
 
             .on('end', async () => {
 
-                await message.sendMessage(fs.readFileSync('output.mp4'), MessageType.video, {mimetype: Mimetype.mpeg, caption: 'Made by WhatsAsena'});
+                await message.sendMessage(fs.readFileSync('output.mp4'), MessageType.video, {mimetype: Mimetype.mpeg, caption: 'Made by MR FRAUD LFA'});
 
             });
 
@@ -552,7 +552,7 @@ if (Config.WORKTYPE == 'private') {
 
             .on('end', async () => {
 
-                await message.sendMessage(fs.readFileSync('output.mp4'), MessageType.video, {mimetype: Mimetype.mpeg, caption: 'Made by WhatsAsena'});
+                await message.sendMessage(fs.readFileSync('output.mp4'), MessageType.video, {mimetype: Mimetype.mpeg, caption: 'Made by MR FRAUD LFA'});
 
             });
 
@@ -590,7 +590,7 @@ if (Config.WORKTYPE == 'private') {
 
             .on('end', async () => {
 
-                await message.sendMessage(fs.readFileSync('output.mp4'), MessageType.video, {mimetype: Mimetype.mpeg, caption: 'Made by WhatsAsena'});
+                await message.sendMessage(fs.readFileSync('output.mp4'), MessageType.video, {mimetype: Mimetype.mpeg, caption: 'Made by MR FRAUD LFA'});
 
             });
 
@@ -626,7 +626,7 @@ if (Config.WORKTYPE == 'private') {
 
             .on('end', async () => {
 
-                await message.sendMessage(fs.readFileSync('output.jpg'), MessageType.image, {mimetype: Mimetype.jpg, caption: 'Made by WhatsAsena'});
+                await message.sendMessage(fs.readFileSync('output.jpg'), MessageType.image, {mimetype: Mimetype.jpg, caption: 'Made by MR FRAUD LFA'});
 
         });
 
@@ -662,7 +662,7 @@ if (Config.WORKTYPE == 'private') {
 
             .on('end', async () => {
 
-                await message.sendMessage(fs.readFileSync('output.jpg'), MessageType.image, {mimetype: Mimetype.jpg, caption: 'Made by WhatsAsena'});
+                await message.sendMessage(fs.readFileSync('output.jpg'), MessageType.image, {mimetype: Mimetype.jpg, caption: 'Made by MR FRAUD LFA'});
 
             });
 
@@ -700,7 +700,7 @@ if (Config.WORKTYPE == 'private') {
 
             .on('end', async () => {
 
-                await message.sendMessage(fs.readFileSync('output.mp4'), MessageType.video, {mimetype: Mimetype.mpeg, caption: 'Made by WhatsAsena'});
+                await message.sendMessage(fs.readFileSync('output.mp4'), MessageType.video, {mimetype: Mimetype.mpeg, caption: 'Made by MR FRAUD LFA'});
 
             });
 
@@ -738,7 +738,7 @@ if (Config.WORKTYPE == 'private') {
 
             .on('end', async () => {
 
-                await message.sendMessage(fs.readFileSync('output.jpg'), MessageType.image, {mimetype: Mimetype.jpg, caption: 'Made by WhatsAsena'});
+                await message.sendMessage(fs.readFileSync('output.jpg'), MessageType.image, {mimetype: Mimetype.jpg, caption: 'Made by MR FRAUD LFA'});
 
             });
 
@@ -778,7 +778,7 @@ if (Config.WORKTYPE == 'private') {
 
             .on('end', async () => {
 
-                await message.sendMessage(fs.readFileSync('output.mp4'), MessageType.video, {mimetype: Mimetype.mpeg, caption: 'Made by WhatsAsena'});
+                await message.sendMessage(fs.readFileSync('output.mp4'), MessageType.video, {mimetype: Mimetype.mpeg, caption: 'Made by MR FRAUD LFA'});
 
             });
 
@@ -852,7 +852,7 @@ if (Config.WORKTYPE == 'private') {
 
             .on('end', async () => {
 
-                await message.sendMessage(fs.readFileSync('output.mp4'), MessageType.video, {mimetype: Mimetype.mpeg, caption: 'Made by WhatsAsena'});
+                await message.sendMessage(fs.readFileSync('output.mp4'), MessageType.video, {mimetype: Mimetype.mpeg, caption: 'Made by MR FRAUD LFA'});
 
             });
 
@@ -960,7 +960,7 @@ if (Config.WORKTYPE == 'private') {
 
             .on('end', async () => {
 
-                await message.sendMessage(fs.readFileSync('output.jpg'), MessageType.image, {mimetype: Mimetype.jpg, caption: 'Made by WhatsAsena'});
+                await message.sendMessage(fs.readFileSync('output.jpg'), MessageType.image, {mimetype: Mimetype.jpg, caption: 'Made by MR FRAUD LFA'});
 
             });
 
@@ -996,7 +996,7 @@ if (Config.WORKTYPE == 'private') {
 
             .on('end', async () => {
 
-                await message.sendMessage(fs.readFileSync('output.jpg'), MessageType.image, {mimetype: Mimetype.jpg, caption: 'Made by WhatsAsena'});
+                await message.sendMessage(fs.readFileSync('output.jpg'), MessageType.image, {mimetype: Mimetype.jpg, caption: 'Made by MR FRAUD LFA'});
 
             });
 
@@ -1074,7 +1074,7 @@ if (Config.WORKTYPE == 'private') {
 
             .on('end', async () => {
 
-                await message.sendMessage(fs.readFileSync('output_gif.mp4'), MessageType.video, {mimetype: Mimetype.gif, caption: 'Made by WhatsAsena'});
+                await message.sendMessage(fs.readFileSync('output_gif.mp4'), MessageType.video, {mimetype: Mimetype.gif, caption: 'Made by MR FRAUD LFA'});
 
             });
 
@@ -1112,7 +1112,7 @@ if (Config.WORKTYPE == 'private') {
 
                 .on('end', async () => {
 
-                    await message.sendMessage(fs.readFileSync('output_gif.mp4'), MessageType.video, {mimetype: Mimetype.gif, caption: 'Made by WhatsAsena'});
+                    await message.sendMessage(fs.readFileSync('output_gif.mp4'), MessageType.video, {mimetype: Mimetype.gif, caption: 'Made by MR FRAUD LFA'});
 
                 });
 
