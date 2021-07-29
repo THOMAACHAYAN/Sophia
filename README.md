@@ -9,7 +9,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="MR FRAUD LFA">Hisham-Muhammed</a> to make it public
+Project created by <a href="MR FRAUD LFA">MR FRAUD LFA</a> to make it public
     <br>
        | © |
         Reserved |
@@ -19,7 +19,7 @@ Project created by <a href="MR FRAUD LFA">Hisham-Muhammed</a> to make it public
 ----
 
   <p align="center">
-  <a href="httsp://github.com/ameer-kallumthodi/pikachu">
+  <a href="httsp://github.com/MR FRAUD LFA/THOMAACHAYAN">
     <img src="https://img.shields.io/github/repo-size/ameerkallumthodi/pikachu?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/ameer-kallumthodi/followers"><img title="Followers" src="https://img.shields.io/github/followers/ameer-kallumthodi?color=blue&style=flat-square"></a>
