@@ -2,10 +2,10 @@
 <div align="center">
   <img border-radius: 15px src="Thoma.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="THOMA" src="https://img.shields.io/badge/Sophia-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="THOMA" src="https://img.shields.io/badge/THOMA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Hisham-Muhammed/Sophia?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/THOMAACHAYAN/THOMA?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
