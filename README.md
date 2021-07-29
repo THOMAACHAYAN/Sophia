@@ -5,7 +5,7 @@
 <a href="#"><img title="THOMA" src="https://img.shields.io/badge/THOMA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/ameer-kallumthodi"><img title="MR FRAUD" src="https://img.shields.io/badge/THOMAACHAYAN/THOMA?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/THOMAACHAYAN"><img title="MR FRAUD" src="https://img.shields.io/badge/THOMAACHAYAN/THOMA?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -22,10 +22,10 @@ Project created by <a href="MR FRAUD LFA">MR FRAUD LFA</a> to make it public
   <a href="httsp://github.com/MR FRAUD LFA/THOMAACHAYAN">
     <img src="https://img.shields.io/github/repo-size/MR FRAUD LFA/THOMAACHAYAN?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/MR FRAUD LFA/followers"><img title="Followers" src="https://img.shields.io/github/followers/ameer-kallumthodi?color=blue&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ameer-kallumthodi/pikachu?color=blue&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ameer-kallumthodi/pikachu?color=blue&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ameer-kallumthodi/pikachu?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/MR FRAUD LFA/followers"><img title="Followers" src="https://img.shields.io/github/followers/THOMAACHAYAN?color=blue&style=flat-square"></a>
+<a href="https://github.com/THOMAACHAYAN/THOMA/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/THOMAACHAYAN/THOMA?color=blue&style=flat-square"></a>
+<a href="https://github.com/THOMAACHAYAN/THOMA/network/members"><img title="Forks" src="https://img.shields.io/github/forks/THOMAACHAYAN/THOMA?color=blue&style=flat-square"></a>
+<a href="https://github.com/THOMAACHAYAN/THOMA/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/THOMAACHAYAN/THOMA?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
@@ -36,7 +36,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/G90s1pqZwAjJ7SjQzzqiXe)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ameer-kallumthodi&repo=PublicBot&theme=nightowl)](https://github.com/ameer-kallumthodi/PublicBot)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=THOMAACHAYAN&repo=PublicBot&theme=nightowl)](https://github.com/THOMAACHAYAN/PublicBot)
   </div>
     
 ## Setup
@@ -61,8 +61,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/ameer-kallumthodi/pikachu
-$ cd pikachu
+$ git clone https://github.com/THOMAACHAYAN/THOMA
+$ cd THOMA
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -92,7 +92,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![ameerkallumthodi](https://github.com/Pikachu-407x400.png?size=100)](https://github.com/ameerkallumthodi) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/THOMAACHAYAN/THOMA).png?size=100)](https://i.imgur.com/KbE2Nce.jpeg) 
+  [![THOMAACHAYAN](https://github.com/THOMA-407x400.png?size=100)](https://github.com/THOMAACHAYAN) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/THOMAACHAYAN/THOMA).png?size=100)](https://i.imgur.com/KbE2Nce.jpeg) 
 ----|----|----
 [farhan-dqz](https://github.com/farhan-dqz)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://i.imgur.com/KbE2Nce.jpeg)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
