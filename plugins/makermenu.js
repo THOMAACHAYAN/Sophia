@@ -29,7 +29,7 @@ if (Config.WORKTYPE == 'private') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/hartatahta?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: 'naruto ?(.*)', fromMe: true,dontAddCommandList: true }, (async (message, match) => {
@@ -38,7 +38,7 @@ if (Config.WORKTYPE == 'private') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/naruto?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: 'blueneon ?(.*)', fromMe: true,dontAddCommandList: true }, (async (message, match) => {
@@ -47,7 +47,7 @@ if (Config.WORKTYPE == 'private') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/bneon?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: '2hacker ?(.*)', fromMe: true,dontAddCommandList: true }, (async (message, match) => {
@@ -56,7 +56,7 @@ if (Config.WORKTYPE == 'private') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/matrix?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: 'breakwall ?(.*)', fromMe: true,dontAddCommandList: true }, (async (message, match) => {
@@ -65,7 +65,7 @@ if (Config.WORKTYPE == 'private') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/breakwall?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: '3hacker ?(.*)', fromMe: true,dontAddCommandList: true }, (async (message, match) => {
@@ -74,7 +74,7 @@ if (Config.WORKTYPE == 'private') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/gneon?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: 'dropwater ?(.*)', fromMe: true,dontAddCommandList: true }, (async (message, match) => {
@@ -83,7 +83,7 @@ if (Config.WORKTYPE == 'private') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/dropwater?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: 'flowertext ?(.*)', fromMe: true,dontAddCommandList: true }, (async (message, match) => {
@@ -92,7 +92,7 @@ if (Config.WORKTYPE == 'private') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/flowertext?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: 'crosslogo ?(.*)', fromMe: true,dontAddCommandList: true }, (async (message, match) => {
@@ -101,7 +101,7 @@ if (Config.WORKTYPE == 'private') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/crosslogo?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: 'sliktext ?(.*)', fromMe: true,dontAddCommandList: true }, (async (message, match) => {
@@ -110,7 +110,7 @@ if (Config.WORKTYPE == 'private') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/silktext?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: 'flame ?(.*)', fromMe: true,dontAddCommandList: true }, (async (message, match) => {
@@ -119,7 +119,7 @@ if (Config.WORKTYPE == 'private') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/flametext?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: '1glow ?(.*)', fromMe: true,dontAddCommandList: true }, (async (message, match) => {
@@ -128,7 +128,7 @@ if (Config.WORKTYPE == 'private') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/glowtext?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: 'somke ?(.*)', fromMe: true,dontAddCommandList: true }, (async (message, match) => {
@@ -137,7 +137,7 @@ if (Config.WORKTYPE == 'private') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/smoketext?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: 'skytext ?(.*)', fromMe: true,dontAddCommandList: true }, (async (message, match) => {
@@ -146,7 +146,7 @@ if (Config.WORKTYPE == 'private') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/skytext?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: 'cslogo ?(.*)', fromMe: true,dontAddCommandList: true }, (async (message, match) => {
@@ -155,7 +155,7 @@ if (Config.WORKTYPE == 'private') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/cslogo?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: 'lithgtext ?(.*)', fromMe: true,dontAddCommandList: true }, (async (message, match) => {
@@ -164,7 +164,7 @@ if (Config.WORKTYPE == 'private') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/lithgtext?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: 'xmas ?(.*)', fromMe: true,dontAddCommandList: true }, (async (message, match) => {
@@ -173,7 +173,7 @@ if (Config.WORKTYPE == 'private') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/crismes?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: 'sfire ?(.*)', fromMe: true,dontAddCommandList: true }, (async (message, match) => {
@@ -182,7 +182,7 @@ if (Config.WORKTYPE == 'private') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/tfire?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: 'sandw ?(.*)', fromMe: true,dontAddCommandList: true }, (async (message, match) => {
@@ -191,7 +191,7 @@ if (Config.WORKTYPE == 'private') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/sandw?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: 'gplay ?(.*)', fromMe: true,dontAddCommandList: true }, (async (message, match) => {
@@ -200,7 +200,7 @@ if (Config.WORKTYPE == 'private') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/gplaybutton?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: 'splay ?(.*)', fromMe: true,dontAddCommandList: true }, (async (message, match) => {
@@ -209,7 +209,7 @@ if (Config.WORKTYPE == 'private') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/splaybutton?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: '3dbox ?(.*)', fromMe: true,dontAddCommandList: true }, (async (message, match) => {
@@ -218,7 +218,7 @@ if (Config.WORKTYPE == 'private') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/text3dbox?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: 'bpink ?(.*)', fromMe: true,dontAddCommandList: true }, (async (message, match) => {
@@ -227,7 +227,7 @@ if (Config.WORKTYPE == 'private') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/logobp?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: 'leave ?(.*)', fromMe: true,dontAddCommandList: true }, (async (message, match) => {
@@ -236,7 +236,7 @@ if (Config.WORKTYPE == 'private') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/leavest?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({pattern: 'logowolf ?(.*)', fromMe: true, dontAddCommandList: true}, (async (message, match) => {
@@ -252,7 +252,7 @@ if (Config.WORKTYPE == 'private') {
 
     var sewimage = await axios.get(`https://api.zeks.xyz/api/wolflogo?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text1=${topText}&text2=${bottomText}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
 }));
     QueenSew.addCommand({pattern: 'logopubg ?(.*)', fromMe: true, dontAddCommandList: true}, (async (message, match) => {
@@ -268,7 +268,7 @@ if (Config.WORKTYPE == 'private') {
 
     var sewimage = await axios.get(`https://api.zeks.xyz/api/pubglogo?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text1=${topText}&text2=${bottomText}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
 }));
     QueenSew.addCommand({pattern: 'snowwrite ?(.*)', fromMe: true, dontAddCommandList: true}, (async (message, match) => {
@@ -284,7 +284,7 @@ if (Config.WORKTYPE == 'private') {
 
     var sewimage = await axios.get(`https://api.zeks.xyz/api/snowwrite?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text1=${topText}&text2=${bottomText}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
 }));
    QueenSew.addCommand({pattern: 'water2color ?(.*)', fromMe: true, dontAddCommandList: true}, (async (message, match) => {
@@ -300,7 +300,7 @@ if (Config.WORKTYPE == 'private') {
 
     var sewimage = await axios.get(`https://api.zeks.xyz/api/watercolour?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text1=${topText}&text2=${bottomText}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
 }));
     
@@ -320,7 +320,7 @@ else if (Config.WORKTYPE == 'public') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/hartatahta?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: 'naruto ?(.*)', fromMe: false,dontAddCommandList: true }, (async (message, match) => {
@@ -329,7 +329,7 @@ else if (Config.WORKTYPE == 'public') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/naruto?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: 'blueneon ?(.*)', fromMe: false,dontAddCommandList: true }, (async (message, match) => {
@@ -338,7 +338,7 @@ else if (Config.WORKTYPE == 'public') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/bneon?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: '2hacker ?(.*)', fromMe: false,dontAddCommandList: true }, (async (message, match) => {
@@ -347,7 +347,7 @@ else if (Config.WORKTYPE == 'public') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/matrix?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: 'breakwall ?(.*)', fromMe: false,dontAddCommandList: true }, (async (message, match) => {
@@ -356,7 +356,7 @@ else if (Config.WORKTYPE == 'public') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/breakwall?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: '3hacker ?(.*)', fromMe: false,dontAddCommandList: true }, (async (message, match) => {
@@ -365,7 +365,7 @@ else if (Config.WORKTYPE == 'public') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/gneon?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: 'dropwater ?(.*)', fromMe: false,dontAddCommandList: true }, (async (message, match) => {
@@ -374,7 +374,7 @@ else if (Config.WORKTYPE == 'public') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/dropwater?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: 'flowertext ?(.*)', fromMe: false,dontAddCommandList: true }, (async (message, match) => {
@@ -383,7 +383,7 @@ else if (Config.WORKTYPE == 'public') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/flowertext?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: 'crosslogo ?(.*)', fromMe: false,dontAddCommandList: true }, (async (message, match) => {
@@ -392,7 +392,7 @@ else if (Config.WORKTYPE == 'public') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/crosslogo?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: 'sliktext ?(.*)', fromMe: false,dontAddCommandList: true }, (async (message, match) => {
@@ -401,7 +401,7 @@ else if (Config.WORKTYPE == 'public') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/silktext?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: 'flame ?(.*)', fromMe: false,dontAddCommandList: true }, (async (message, match) => {
@@ -410,7 +410,7 @@ else if (Config.WORKTYPE == 'public') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/flametext?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: '1glow ?(.*)', fromMe: false,dontAddCommandList: true }, (async (message, match) => {
@@ -419,7 +419,7 @@ else if (Config.WORKTYPE == 'public') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/glowtext?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: 'somke ?(.*)', fromMe: false,dontAddCommandList: true }, (async (message, match) => {
@@ -428,7 +428,7 @@ else if (Config.WORKTYPE == 'public') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/smoketext?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: 'skytext ?(.*)', fromMe: false,dontAddCommandList: true }, (async (message, match) => {
@@ -437,7 +437,7 @@ else if (Config.WORKTYPE == 'public') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/skytext?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: 'cslogo ?(.*)', fromMe: false,dontAddCommandList: true }, (async (message, match) => {
@@ -446,7 +446,7 @@ else if (Config.WORKTYPE == 'public') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/cslogo?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: 'lithgtext ?(.*)', fromMe: false,dontAddCommandList: true }, (async (message, match) => {
@@ -455,7 +455,7 @@ else if (Config.WORKTYPE == 'public') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/lithgtext?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: 'xmas ?(.*)', fromMe: false,dontAddCommandList: true }, (async (message, match) => {
@@ -464,7 +464,7 @@ else if (Config.WORKTYPE == 'public') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/crismes?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: 'sfire ?(.*)', fromMe: false,dontAddCommandList: true }, (async (message, match) => {
@@ -473,7 +473,7 @@ else if (Config.WORKTYPE == 'public') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/tfire?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: 'sandw ?(.*)', fromMe: false,dontAddCommandList: true }, (async (message, match) => {
@@ -482,7 +482,7 @@ else if (Config.WORKTYPE == 'public') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/sandw?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: 'gplay ?(.*)', fromMe: false,dontAddCommandList: true }, (async (message, match) => {
@@ -491,7 +491,7 @@ else if (Config.WORKTYPE == 'public') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/gplaybutton?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: 'splay ?(.*)', fromMe: false,dontAddCommandList: true }, (async (message, match) => {
@@ -500,7 +500,7 @@ else if (Config.WORKTYPE == 'public') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/splaybutton?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: '3dbox ?(.*)', fromMe: false,dontAddCommandList: true }, (async (message, match) => {
@@ -509,7 +509,7 @@ else if (Config.WORKTYPE == 'public') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/text3dbox?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: 'bpink ?(.*)', fromMe: false,dontAddCommandList: true }, (async (message, match) => {
@@ -518,7 +518,7 @@ else if (Config.WORKTYPE == 'public') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/logobp?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({ pattern: 'leave ?(.*)', fromMe: false,dontAddCommandList: true }, (async (message, match) => {
@@ -527,7 +527,7 @@ else if (Config.WORKTYPE == 'public') {
 
         var sewimage = await axios.get(`https://api.zeks.xyz/api/leavest?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+        await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
     }));
     QueenSew.addCommand({pattern: 'logowolf ?(.*)', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
@@ -543,7 +543,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.zeks.xyz/api/wolflogo?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text1=${topText}&text2=${bottomText}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
 }));
     QueenSew.addCommand({pattern: 'logopubg ?(.*)', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
@@ -559,7 +559,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.zeks.xyz/api/pubglogo?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text1=${topText}&text2=${bottomText}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
 }));
     QueenSew.addCommand({pattern: 'snowwrite ?(.*)', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
@@ -575,7 +575,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.zeks.xyz/api/snowwrite?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text1=${topText}&text2=${bottomText}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
 }));
    QueenSew.addCommand({pattern: 'water2color ?(.*)', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
@@ -591,7 +591,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var sewimage = await axios.get(`https://api.zeks.xyz/api/watercolour?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text1=${topText}&text2=${bottomText}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MAKED By SOPHIA BOT*' })
+    await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MAKED By THOMA BOT*' })
 
 }));
     
