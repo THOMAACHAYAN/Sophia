@@ -16,7 +16,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-    r_text[1] = "*╔═════😎THOMA😎═════╗*\n           \n*⚜═THOMA═⚜*\n\n*owner MR FRAUD LFA- http://Wa.me/+919562354752*\n* *\n🔰instagram:- https://youtube.com/c/ICHUTECH*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: THOMAACHAYAN*"
+    r_text[1] = "*╔═════😎THOMA😎═════╗*\n           \n*⚜═THOMA═⚜*\n\n*owner MR FRAUD LFA- http://Wa.me/+919562354752*\n* *\n🔰instagram:- https://youtube.com/c/ICHUTECH*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: MR FRAUD LFA*"
 
     
 
